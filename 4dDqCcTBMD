@@ -93,7 +93,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/tCxLN3O/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "11": {
       "title": "Bölüm",
       "volume": "1",
@@ -101,7 +101,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/E0b0Csg/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "12": {
       "title": "Bölüm",
       "volume": "1",
@@ -109,7 +109,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/SWtEuuc/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "13": {
       "title": "Bölüm",
       "volume": "1",
@@ -117,7 +117,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/211UOj3/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "14": {
       "title": "Bölüm",
       "volume": "1",
@@ -125,7 +125,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/C7an2yx/"
       },
       "last_updated": "1623969510"
-        },
+    },
     "15": {
       "title": "Bölüm",
       "volume": "1",
@@ -133,7 +133,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/BwDgTHo/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "16": {
       "title": "Bölüm",
       "volume": "1",
@@ -173,7 +173,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/9ffeWpu/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "21": {
       "title": "Bölüm",
       "volume": "1",
@@ -181,7 +181,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/sP5u1rE/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "22": {
       "title": "Bölüm",
       "volume": "1",
@@ -189,7 +189,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/d6wWSMJ/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "23": {
       "title": "Bölüm",
       "volume": "1",
@@ -197,7 +197,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/0djo9lJ/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "24": {
       "title": "Bölüm",
       "volume": "1",
@@ -205,7 +205,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/Cf6las1/"
       },
       "last_updated": "1623969510"
-        },
+    },
     "25": {
       "title": "Bölüm",
       "volume": "1",
@@ -213,7 +213,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/em5plOs/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "26": {
       "title": "Bölüm",
       "volume": "1",
@@ -253,7 +253,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/g3TqHXc/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "31": {
       "title": "Bölüm",
       "volume": "1",
@@ -261,7 +261,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/x3sk36W/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "32": {
       "title": "Bölüm",
       "volume": "1",
@@ -269,7 +269,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/4CS2pvj/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "33": {
       "title": "Bölüm",
       "volume": "1",
@@ -277,7 +277,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/KC0vM4t/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "34": {
       "title": "Bölüm",
       "volume": "1",
@@ -285,7 +285,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/DlQoDjv/"
       },
       "last_updated": "1623969510"
-        },
+    },
     "35": {
       "title": "Bölüm - Cinayet",
       "volume": "1",
@@ -293,21 +293,15 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/BDC9wo3/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "36": {
       "title": "Bölüm - Cinayet",
       "volume": "1",
       "groups": {
         "Luna Scans TR": "/proxy/api/imgur/chapter/NGoxMxj/"
       },
-      "last_updated": "1623969510" "33": {
-      "title": "Bölüm",
-      "volume": "1",
-      "groups": {
-        "Luna Scans TR": "/proxy/api/imgur/chapter/211UOj3/"
-      },
-      "last_updated": "1623969510"
-         },
+      "last_updated": "1623969510" "33":
+    },
     "37": {
       "title": "Bölüm - Avcının Gecesi",
       "volume": "1",
@@ -315,7 +309,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/erNraiD/"
       },
       "last_updated": "1623969510"
-        },
+    },
     "38": {
       "title": "Bölüm - Avcının Gecesi",
       "volume": "1",
@@ -323,7 +317,7 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/z8LYYeQ/"
       },
       "last_updated": "1623969510"
-         },
+    },
     "39": {
       "title": "Bölüm - Avcının Gecesi",
       "volume": "1",
